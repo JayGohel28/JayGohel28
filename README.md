@@ -13,58 +13,48 @@
 
 ## 🧾 SUMMARY
 
-Software and Web Developer with a strong academic foundation in computer applications, having completed a **Bachelor’s degree** and currently pursuing a **Master’s degree**. Hands-on experience through academic and live projects, with a solid understanding of **programming fundamentals, database concepts, and core software development practices**. Motivated to contribute effectively within a professional development team while continuously learning and growing within the organization.
+Software and Web Developer with a strong academic foundation in computer applications, having completed a Bachelor’s degree and currently pursuing a Master’s degree. Hands-on experience through academic and live projects, with a solid understanding of programming fundamentals, database concepts, and core software development practices. Motivated to contribute effectively within a professional development team while continuously learning and growing within the organization.
 
 ---
 
 ## 🛠️ SKILLS
 
-<table>
-<tr>
-<td width="50%">
+### 👨‍💻 Programming Languages
+- Python  
+- C#  
+- PHP  
 
-**Programming Languages**  
-• Python  
-• C#  
-• PHP  
+### 🌐 Web Technologies
+- HTML5  
+- CSS3  
+- ReactJS  
+- Node.js  
 
-**Web Technologies**  
-• HTML5  
-• CSS3  
-• ReactJS  
-• Node.js  
+### 🧱 Frameworks & Platforms
+- ASP.NET  
+- Shopify  
 
-</td>
-<td width="50%">
+### 🗄️ Databases
+- SQL Server Express  
+- MySQL  
+- Oracle SQL  
+- MongoDB  
+- SQLite  
+- Microsoft Access  
 
-**Frameworks & Platforms**  
-• ASP.NET  
-• Shopify  
+### ☁️ Cloud & BI Tools
+- AWS  
+- Power BI  
 
-**Databases**  
-• MySQL  
-• Oracle SQL  
-• MongoDB  
-• SQLite  
-• Microsoft Access  
-
-**Cloud & BI Tools**  
-• AWS  
-• Power BI  
-
-**Version Control**  
-• Git  
-• GitHub  
-
-</td>
-</tr>
-</table>
+### 🔧 Version Control
+- Git  
+- GitHub  
 
 ---
 
 ## 🎓 EDUCATION
 
-**Master of Computer Applications (MCA)** *(Pursuing)*  
+**Master of Computer Applications (MCA)** – *Pursuing*  
 Lok Jagruti Kendra University (LJKU), Ahmedabad  
 <sub>2024 – 2026</sub>
 
@@ -83,19 +73,18 @@ Bhakta Kavi Narsinh Mehta University (BKNMU), Porbandar
 
 <br>
 
-Developed **Classroom Gazette**, a web-based academic management system for handling:
+Developed **Classroom Gazette**, a web-based academic management system for handling student records, attendance, courses, and notices with role-based access.
 
-• Student records  
-• Attendance management  
-• Courses and notices  
-• Role-based access (Admin / Faculty / Student)
+**Key Features**
+- Role-based authentication (Admin / Faculty / Student)
+- Student record and attendance management
+- Course and notice handling
+- Secure authentication system
+- Database integration
+- CRUD operations
+- Automation of academic workflows to reduce manual effort
 
-**Key Contributions**
-- Secure authentication system  
-- Database integration with SQL Server  
-- CRUD operations  
-- Automation of academic workflows  
-- Reduced manual effort through systemization  
+📌 *Academic Project*
 
 </details>
 
@@ -106,13 +95,15 @@ Developed **Classroom Gazette**, a web-based academic management system for hand
 
 <br>
 
-Developed a **secure web-based system** for banking association management.
+Developed a secure, web-based system for banking association management.
 
 **Highlights**
-- Improved real-time operations  
-- Enhanced system efficiency  
-- Secure data handling  
-- Strong focus on data integrity  
+- Secure data handling
+- Improved real-time operations
+- Enhanced system efficiency
+- Strong focus on data integrity and security
+
+📌 *Academic Project*
 
 </details>
 
@@ -123,7 +114,7 @@ Developed a **secure web-based system** for banking association management.
 
 <br>
 
-Worked on a **live project** for a child development and psychological services center, contributing to system functionality and real-world requirements handling.
+Worked on a **live project** for a child development and psychological services center, contributing to real-world system requirements, functional implementation, and application behavior.
 
 </details>
 
@@ -134,11 +125,13 @@ Worked on a **live project** for a child development and psychological services 
 
 <br>
 
-Developed a desktop-based banking application using **C# and Microsoft Access**, focusing on:
+Developed a desktop-based banking application using **C# and Microsoft Access**.
 
-• Structured data storage  
-• Transaction handling  
-• Basic banking operations  
+**Focus Areas**
+- Structured data storage
+- Transaction handling
+- Basic banking operations
+- Desktop application logic
 
 </details>
 
@@ -149,24 +142,26 @@ Developed a desktop-based banking application using **C# and Microsoft Access**,
 **Certified Machine Learning Intern – CodSoft**  
 <sub>May 2025 – June 2025</sub>
 
-• Exposure to machine learning workflows  
-• Data handling and preprocessing  
-• Practical understanding of applied ML concepts  
+- Exposure to applied machine learning concepts  
+- Data handling and preprocessing  
+- Understanding of ML workflows and model usage  
 
 ---
 
 ## 📜 CERTIFICATIONS
 
-• Generative AI Mastermind – Outskill  
-• Generative AI Fundamentals – Coursera  
-• Linux Commands and Shell Scripting – Coursera  
-• Introduction to Software Engineering – Coursera  
+- Generative AI Mastermind – Outskill  
+- Generative AI Fundamentals – Coursera  
+- Linux Commands and Shell Scripting – Coursera  
+- Introduction to Software Engineering – Coursera  
 
 ---
 
 ## 🌐 LANGUAGES
 
-English • Hindi • Gujarati
+- English  
+- Hindi  
+- Gujarati  
 
 ---
 
