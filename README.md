@@ -1,38 +1,62 @@
-<h1 align="center">Jay Gohel</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Developer</b>
-</p>
+# 👨‍💻 Jay Gohel  
 
-<p align="center">
-  📧 jaygohel0091@gmail.com &nbsp; | &nbsp; 📞 9157144156 <br>
-  📍 Ahmedabad, Gujarat
-</p>
+### Software Developer  
 
-<hr>
+📧 **jaygohel0091@gmail.com** &nbsp; | &nbsp; 📞 **9157144156**  
+📍 Ahmedabad, Gujarat  
 
-## 🧾 SUMMARY
-
-Software and Web Developer with a strong academic foundation in computer applications, having completed a Bachelor’s degree and currently pursuing a Master’s degree. Hands-on experience through academic and live projects, with a solid understanding of programming fundamentals, database concepts, and core software development practices. Motivated to contribute effectively within a professional development team while continuously learning and growing within the organization.
+</div>
 
 ---
 
-## 🛠️ SKILLS
+<div align="center">
+<i>Building clean, structured, database-driven applications with real-world logic.</i>
+</div>
 
-### 👨‍💻 Programming Languages
+---
+
+## ✨ PROFILE SUMMARY
+
+> Software and Web Developer with a strong academic foundation in computer applications, having completed a Bachelor’s degree and currently pursuing a Master’s degree. Hands-on experience through academic and live projects, with a solid understanding of programming fundamentals, database concepts, and core software development practices. Motivated to contribute effectively within a professional development team while continuously learning and growing within the organization.
+
+---
+
+## 🧠 TECHNICAL SKILLS SNAPSHOT
+
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+
+### 👨‍💻 Programming
 - Python  
 - C#  
 - PHP  
 
-### 🌐 Web Technologies
+</td>
+<td width="33%" valign="top">
+
+### 🌐 Web
 - HTML5  
 - CSS3  
 - ReactJS  
 - Node.js  
 
-### 🧱 Frameworks & Platforms
+</td>
+<td width="33%" valign="top">
+
+### 🧱 Frameworks
 - ASP.NET  
 - Shopify  
+
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
 ### 🗄️ Databases
 - SQL Server Express  
@@ -42,96 +66,111 @@ Software and Web Developer with a strong academic foundation in computer applica
 - SQLite  
 - Microsoft Access  
 
-### ☁️ Cloud & BI Tools
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Tools & Cloud
 - AWS  
 - Power BI  
-
-### 🔧 Version Control
 - Git  
 - GitHub  
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 🎓 EDUCATION
+## 🎓 EDUCATION TIMELINE
 
-**Master of Computer Applications (MCA)** – *Pursuing*  
+**🎓 Master of Computer Applications (MCA)**  
 Lok Jagruti Kendra University (LJKU), Ahmedabad  
-<sub>2024 – 2026</sub>
+<sub>2024 – 2026 (Pursuing)</sub>
 
-<br>
+---
 
-**Bachelor of Computer Applications (BCA)**  
+**🎓 Bachelor of Computer Applications (BCA)**  
 Bhakta Kavi Narsinh Mehta University (BKNMU), Porbandar  
 <sub>2021 – 2024 | Grade: A</sub>
 
 ---
 
-## 📂 PROJECTS
+## 🚀 PROJECT SHOWCASE  
+<i>(Click to expand)</i>
 
 <details>
-<summary><b>🏫 Classroom Gazette</b> &nbsp; <i>(ASP.NET, SQL Server Express)</i></summary>
+<summary><b>🏫 Classroom Gazette</b> &nbsp; <sub>ASP.NET • SQL Server Express</sub></summary>
 
 <br>
 
-Developed **Classroom Gazette**, a web-based academic management system for handling student records, attendance, courses, and notices with role-based access.
+📌 **Academic Management System**
 
-**Key Features**
-- Role-based authentication (Admin / Faculty / Student)
-- Student record and attendance management
-- Course and notice handling
-- Secure authentication system
-- Database integration
-- CRUD operations
-- Automation of academic workflows to reduce manual effort
+✔ Role-based authentication (Admin / Faculty / Student)  
+✔ Student record management  
+✔ Attendance tracking  
+✔ Course & notice handling  
+✔ Secure login and authorization  
+✔ CRUD operations  
+✔ SQL Server database integration  
 
-📌 *Academic Project*
+🎯 **Impact:**  
+Automated academic workflows and reduced manual effort through systemized data handling.
 
 </details>
 
-<br>
+---
 
 <details>
-<summary><b>🏦 Jay Smart Innovative Banking Association</b> &nbsp; <i>(ASP.NET, SQL Server Express)</i></summary>
+<summary><b>🏦 Jay Smart Innovative Banking Association</b> &nbsp; <sub>ASP.NET • SQL Server Express</sub></summary>
 
 <br>
 
-Developed a secure, web-based system for banking association management.
+📌 **Web-based Banking Association System**
 
-**Highlights**
-- Secure data handling
-- Improved real-time operations
-- Enhanced system efficiency
-- Strong focus on data integrity and security
+✔ Secure data handling  
+✔ Structured backend architecture  
+✔ Real-time operation improvements  
+✔ Emphasis on data integrity and security  
 
-📌 *Academic Project*
+🎯 **Impact:**  
+Improved system efficiency and operational reliability.
 
 </details>
 
-<br>
+---
 
 <details>
-<summary><b>🧠 Psycho Bloom Child Development & Psychological Services Center</b> &nbsp; <i>(Live Project)</i></summary>
+<summary><b>🧠 Psycho Bloom Child Development & Psychological Services Center</b> &nbsp; <sub>Live Project</sub></summary>
 
 <br>
 
-Worked on a **live project** for a child development and psychological services center, contributing to real-world system requirements, functional implementation, and application behavior.
+📌 **Live Client Project**
+
+✔ Worked on real-world functional requirements  
+✔ Contributed to system behavior and flow  
+✔ Exposure to production-level expectations  
+
+🎯 **Impact:**  
+Hands-on experience with client-driven development and practical problem solving.
 
 </details>
 
-<br>
+---
 
 <details>
-<summary><b>🏦 Jay Smart Bank</b> &nbsp; <i>(C#, MS Access)</i></summary>
+<summary><b>🏦 Jay Smart Bank</b> &nbsp; <sub>C# • MS Access</sub></summary>
 
 <br>
 
-Developed a desktop-based banking application using **C# and Microsoft Access**.
+📌 **Desktop Banking Application**
 
-**Focus Areas**
-- Structured data storage
-- Transaction handling
-- Basic banking operations
-- Desktop application logic
+✔ Structured data storage  
+✔ Transaction handling  
+✔ Core banking operations  
+✔ Desktop application logic  
+
+🎯 **Impact:**  
+Strengthened understanding of desktop applications and database connectivity.
 
 </details>
 
@@ -142,33 +181,33 @@ Developed a desktop-based banking application using **C# and Microsoft Access**.
 **Certified Machine Learning Intern – CodSoft**  
 <sub>May 2025 – June 2025</sub>
 
-- Exposure to applied machine learning concepts  
-- Data handling and preprocessing  
-- Understanding of ML workflows and model usage  
+✔ Exposure to applied machine learning concepts  
+✔ Data preprocessing and handling  
+✔ Understanding ML workflows and practical use cases  
 
 ---
 
 ## 📜 CERTIFICATIONS
 
-- Generative AI Mastermind – Outskill  
-- Generative AI Fundamentals – Coursera  
-- Linux Commands and Shell Scripting – Coursera  
-- Introduction to Software Engineering – Coursera  
+- 🏅 Generative AI Mastermind – Outskill  
+- 🏅 Generative AI Fundamentals – Coursera  
+- 🏅 Linux Commands and Shell Scripting – Coursera  
+- 🏅 Introduction to Software Engineering – Coursera  
 
 ---
 
-## 🌐 LANGUAGES
+## 🌍 LANGUAGES
 
-- English  
-- Hindi  
-- Gujarati  
+English • Hindi • Gujarati  
 
 ---
 
-<p align="center">
-  <b>Open to internship and entry-level opportunities in Software & Web Development</b>
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ Explore my repositories to see my work
-</p>
+### 📫 OPEN TO OPPORTUNITIES
+
+<b>Internships & Entry-Level Roles in Software / Web Development</b>
+
+⭐ Explore my repositories to see practical implementations
+
+</div>
