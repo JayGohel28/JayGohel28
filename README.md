@@ -1,172 +1,179 @@
-<h1 align="center">👋 Jay Gohel</h1>
+<h1 align="center">Jay Gohel</h1>
 
 <p align="center">
-  <b>Software & Web Developer</b><br>
-  ASP.NET • C# • SQL • Web Technologies
+  <b>Software Developer</b>
 </p>
 
 <p align="center">
-  📍 Ahmedabad, Gujarat &nbsp; | &nbsp;
-  📧 jaygohel0091@gmail.com
-</p>
-
-<p align="center">
-  <i>Building structured, database-driven applications with real-world logic.</i>
+  📧 jaygohel0091@gmail.com &nbsp; | &nbsp; 📞 9157144156 <br>
+  📍 Ahmedabad, Gujarat
 </p>
 
 <hr>
 
-## ✨ About Me
+## 🧾 SUMMARY
 
-🎓 BCA graduate, currently pursuing **MCA**  
-💻 Focused on **backend development, databases, and clean architecture**  
-🧠 Experience through academic and internship projects  
-🚀 Actively seeking **internship & entry-level developer roles**
-
-I don’t chase buzzwords — I focus on **understanding systems, data flow, and problem-solving**.
+Software and Web Developer with a strong academic foundation in computer applications, having completed a **Bachelor’s degree** and currently pursuing a **Master’s degree**. Hands-on experience through academic and live projects, with a solid understanding of **programming fundamentals, database concepts, and core software development practices**. Motivated to contribute effectively within a professional development team while continuously learning and growing within the organization.
 
 ---
 
-## 🧩 Technical Skill Set
+## 🛠️ SKILLS
 
 <table>
 <tr>
 <td width="50%">
 
-### 👨‍💻 Programming
-- Python  
-- C#  
-- PHP  
+**Programming Languages**  
+• Python  
+• C#  
+• PHP  
 
-### 🌐 Web
-- HTML5  
-- CSS3  
-- ReactJS  
-- Node.js  
+**Web Technologies**  
+• HTML5  
+• CSS3  
+• ReactJS  
+• Node.js  
 
 </td>
 <td width="50%">
 
-### 🧱 Frameworks & Platforms
-- ASP.NET  
-- Shopify  
+**Frameworks & Platforms**  
+• ASP.NET  
+• Shopify  
 
-### 🗄️ Databases
-- SQL Server Express  
-- MySQL  
-- Oracle SQL  
-- MongoDB  
-- SQLite  
-- Microsoft Access  
+**Databases**  
+• MySQL  
+• Oracle SQL  
+• MongoDB  
+• SQLite  
+• Microsoft Access  
+
+**Cloud & BI Tools**  
+• AWS  
+• Power BI  
+
+**Version Control**  
+• Git  
+• GitHub  
 
 </td>
 </tr>
 </table>
 
-### ☁️ Tools & Cloud
-- AWS  
-- Power BI  
-- Git  
-- GitHub  
-
 ---
 
-## 🚀 Projects Snapshot
+## 🎓 EDUCATION
 
-<details>
-<summary><b>🏫 Classroom Gazette</b> &nbsp; <i>(ASP.NET | C# | SQL Server)</i></summary>
-
-<br>
-
-📘 **Academic Management System** designed to automate daily academic operations.
-
-✔ Role-based authentication (Admin / Faculty / Student)  
-✔ Student record management  
-✔ Attendance tracking  
-✔ Course & notice handling  
-✔ Secure login & authorization  
-✔ Full CRUD operations  
-✔ SQL Server database integration  
-
-🎯 **What this shows:**  
-Backend logic • Database design • Real-world workflow understanding
-
-📌 *Academic Project*
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🏦 Jay Smart Innovative Banking Association</b> &nbsp; <i>(ASP.NET | C# | SQL Server)</i></summary>
-
-<br>
-
-🏦 **Web-based banking association management system**
-
-✔ Secure data handling  
-✔ Structured backend architecture  
-✔ SQL Server integration  
-✔ Improved operational efficiency  
-✔ Emphasis on data integrity and security  
-
-🎯 **What this shows:**  
-System design • Security awareness • Backend discipline
-
-📌 *Academic Project*
-
-</details>
-
----
-
-## 🎓 Education
-
-**Master of Computer Applications (MCA)**  
-Lok Jagruti Kendra University  
-<sub>2024 – 2026 (Pursuing)</sub>
+**Master of Computer Applications (MCA)** *(Pursuing)*  
+Lok Jagruti Kendra University (LJKU), Ahmedabad  
+<sub>2024 – 2026</sub>
 
 <br>
 
 **Bachelor of Computer Applications (BCA)**  
-Bhakta Kavi Narsinh Mehta University  
+Bhakta Kavi Narsinh Mehta University (BKNMU), Porbandar  
 <sub>2021 – 2024 | Grade: A</sub>
 
 ---
 
-## 💼 Experience
+## 📂 PROJECTS
 
-**Certified Machine Learning Intern** – CodSoft  
+<details>
+<summary><b>🏫 Classroom Gazette</b> &nbsp; <i>(ASP.NET, SQL Server Express)</i></summary>
+
+<br>
+
+Developed **Classroom Gazette**, a web-based academic management system for handling:
+
+• Student records  
+• Attendance management  
+• Courses and notices  
+• Role-based access (Admin / Faculty / Student)
+
+**Key Contributions**
+- Secure authentication system  
+- Database integration with SQL Server  
+- CRUD operations  
+- Automation of academic workflows  
+- Reduced manual effort through systemization  
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🏦 Jay Smart Innovative Banking Association</b> &nbsp; <i>(ASP.NET, SQL Server Express)</i></summary>
+
+<br>
+
+Developed a **secure web-based system** for banking association management.
+
+**Highlights**
+- Improved real-time operations  
+- Enhanced system efficiency  
+- Secure data handling  
+- Strong focus on data integrity  
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🧠 Psycho Bloom Child Development & Psychological Services Center</b> &nbsp; <i>(Live Project)</i></summary>
+
+<br>
+
+Worked on a **live project** for a child development and psychological services center, contributing to system functionality and real-world requirements handling.
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🏦 Jay Smart Bank</b> &nbsp; <i>(C#, MS Access)</i></summary>
+
+<br>
+
+Developed a desktop-based banking application using **C# and Microsoft Access**, focusing on:
+
+• Structured data storage  
+• Transaction handling  
+• Basic banking operations  
+
+</details>
+
+---
+
+## 💼 EXPERIENCE
+
+**Certified Machine Learning Intern – CodSoft**  
 <sub>May 2025 – June 2025</sub>
 
-> Exposure to applied machine learning concepts, data handling, and model workflows.
+• Exposure to machine learning workflows  
+• Data handling and preprocessing  
+• Practical understanding of applied ML concepts  
 
 ---
 
-## 📜 Certifications
+## 📜 CERTIFICATIONS
 
-- Generative AI Mastermind – Outskill  
-- Generative AI Fundamentals – Coursera  
-- Linux Commands & Shell Scripting – Coursera  
-- Introduction to Software Engineering – Coursera  
-
----
-
-## 🌍 Languages
-
-English • Hindi • Gujarati  
+• Generative AI Mastermind – Outskill  
+• Generative AI Fundamentals – Coursera  
+• Linux Commands and Shell Scripting – Coursera  
+• Introduction to Software Engineering – Coursera  
 
 ---
 
-## 📫 Let’s Connect
+## 🌐 LANGUAGES
 
-📧 **Email:** jaygohel0091@gmail.com  
-🐙 **GitHub:** https://github.com/JayGohel28  
-📍 **Location:** Ahmedabad, Gujarat  
+English • Hindi • Gujarati
+
+---
 
 <p align="center">
-  <b>Open to internships & entry-level opportunities in Software and Web Development</b>
+  <b>Open to internship and entry-level opportunities in Software & Web Development</b>
 </p>
 
 <p align="center">
-  ⭐ If you find my work interesting, feel free to explore my repositories
+  ⭐ Explore my repositories to see my work
 </p>
