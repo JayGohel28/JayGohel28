@@ -1,54 +1,64 @@
 <div align="center">
 
-# 👨‍💻 Jay Gohel  
+# 🚀 JAY GOHEL  
 
-### Software Developer  
+### SOFTWARE DEVELOPER  
 
-📧 **jaygohel0091@gmail.com** &nbsp; | &nbsp; 📞 **9157144156**  
+📧 <b>jaygohel0091@gmail.com</b> &nbsp; | &nbsp; 📞 <b>9157144156</b>  
 📍 Ahmedabad, Gujarat  
 
 </div>
 
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<p align="center">
+<i>Designing structured, scalable, and database-driven software solutions.</i>
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
 ---
 
-<div align="center">
-<i>Building clean, structured, database-driven applications with real-world logic.</i>
-</div>
+## 🧠 WHO AM I?
+
+> 🎓 BCA Graduate | MCA Student  
+> 💻 Software & Web Developer  
+> 🏗️ Backend-focused with strong database foundations  
+
+Software and Web Developer with a strong academic background in computer applications. Experienced in academic, live, and internship-based projects with a solid grasp of programming logic, databases, and real-world application workflows. Continuously learning and aiming to contribute to high-impact development teams.
 
 ---
 
-## ✨ PROFILE SUMMARY
-
-> Software and Web Developer with a strong academic foundation in computer applications, having completed a Bachelor’s degree and currently pursuing a Master’s degree. Hands-on experience through academic and live projects, with a solid understanding of programming fundamentals, database concepts, and core software development practices. Motivated to contribute effectively within a professional development team while continuously learning and growing within the organization.
-
----
-
-## 🧠 TECHNICAL SKILLS SNAPSHOT
+## 🛠️ TECHNICAL SKILL MATRIX
 
 <table align="center">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-### 👨‍💻 Programming
-- Python  
-- C#  
-- PHP  
+### 👨‍💻 Languages
+Python  
+C#  
+PHP  
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
 ### 🌐 Web
-- HTML5  
-- CSS3  
-- ReactJS  
-- Node.js  
+HTML5  
+CSS3  
+ReactJS  
+Node.js  
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
 ### 🧱 Frameworks
-- ASP.NET  
-- Shopify  
+ASP.NET  
+Shopify  
 
 </td>
 </tr>
@@ -56,24 +66,24 @@
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### 🗄️ Databases
-- SQL Server Express  
-- MySQL  
-- Oracle SQL  
-- MongoDB  
-- SQLite  
-- Microsoft Access  
+SQL Server Express  
+MySQL  
+Oracle SQL  
+MongoDB  
+SQLite  
+Microsoft Access  
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### ☁️ Tools & Cloud
-- AWS  
-- Power BI  
-- Git  
-- GitHub  
+AWS  
+Power BI  
+Git  
+GitHub  
 
 </td>
 </tr>
@@ -81,122 +91,121 @@
 
 ---
 
-## 🎓 EDUCATION TIMELINE
+## 🎓 ACADEMIC JOURNEY
 
-**🎓 Master of Computer Applications (MCA)**  
-Lok Jagruti Kendra University (LJKU), Ahmedabad  
+📌 **Master of Computer Applications (MCA)**  
+Lok Jagruti Kendra University, Ahmedabad  
 <sub>2024 – 2026 (Pursuing)</sub>
 
----
+━━━━━━━━━━━━━━━━━━━━
 
-**🎓 Bachelor of Computer Applications (BCA)**  
-Bhakta Kavi Narsinh Mehta University (BKNMU), Porbandar  
+📌 **Bachelor of Computer Applications (BCA)**  
+Bhakta Kavi Narsinh Mehta University, Porbandar  
 <sub>2021 – 2024 | Grade: A</sub>
 
 ---
 
-## 🚀 PROJECT SHOWCASE  
-<i>(Click to expand)</i>
+## 🧩 PROJECT EXPERIENCE  
+<i>(Click each project to expand)</i>
 
 <details>
 <summary><b>🏫 Classroom Gazette</b> &nbsp; <sub>ASP.NET • SQL Server Express</sub></summary>
 
 <br>
 
-📌 **Academic Management System**
+🧠 **Academic Management System**
 
-✔ Role-based authentication (Admin / Faculty / Student)  
-✔ Student record management  
-✔ Attendance tracking  
-✔ Course & notice handling  
-✔ Secure login and authorization  
-✔ CRUD operations  
-✔ SQL Server database integration  
+✔ Role-based authentication  
+✔ Student & attendance management  
+✔ Course and notice modules  
+✔ Secure login system  
+✔ SQL Server integration  
+✔ Full CRUD operations  
 
-🎯 **Impact:**  
-Automated academic workflows and reduced manual effort through systemized data handling.
+🎯 **Outcome**  
+Automated academic workflows and significantly reduced manual administrative effort.
 
 </details>
 
----
+<p align="center">━━━━━━━━━━━━━━</p>
 
 <details>
 <summary><b>🏦 Jay Smart Innovative Banking Association</b> &nbsp; <sub>ASP.NET • SQL Server Express</sub></summary>
 
 <br>
 
-📌 **Web-based Banking Association System**
+🧠 **Banking Association Management System**
 
-✔ Secure data handling  
-✔ Structured backend architecture  
+✔ Secure backend architecture  
 ✔ Real-time operation improvements  
-✔ Emphasis on data integrity and security  
+✔ Data integrity and protection  
+✔ Structured transaction handling  
 
-🎯 **Impact:**  
-Improved system efficiency and operational reliability.
+🎯 **Outcome**  
+Improved operational efficiency and system reliability.
 
 </details>
 
----
+<p align="center">━━━━━━━━━━━━━━</p>
 
 <details>
 <summary><b>🧠 Psycho Bloom Child Development & Psychological Services Center</b> &nbsp; <sub>Live Project</sub></summary>
 
 <br>
 
-📌 **Live Client Project**
+🧠 **Live Client Project**
 
 ✔ Worked on real-world functional requirements  
-✔ Contributed to system behavior and flow  
-✔ Exposure to production-level expectations  
+✔ Exposure to production-level constraints  
+✔ Client-driven feature implementation  
 
-🎯 **Impact:**  
-Hands-on experience with client-driven development and practical problem solving.
+🎯 **Outcome**  
+Hands-on experience with real business logic and user expectations.
 
 </details>
 
----
+<p align="center">━━━━━━━━━━━━━━</p>
 
 <details>
 <summary><b>🏦 Jay Smart Bank</b> &nbsp; <sub>C# • MS Access</sub></summary>
 
 <br>
 
-📌 **Desktop Banking Application**
+🧠 **Desktop Banking Application**
 
 ✔ Structured data storage  
-✔ Transaction handling  
-✔ Core banking operations  
+✔ Transaction processing  
+✔ Core banking workflows  
 ✔ Desktop application logic  
 
-🎯 **Impact:**  
-Strengthened understanding of desktop applications and database connectivity.
+🎯 **Outcome**  
+Strengthened understanding of desktop software and database connectivity.
 
 </details>
 
 ---
 
-## 💼 EXPERIENCE
+## 💼 PROFESSIONAL EXPERIENCE
 
-**Certified Machine Learning Intern – CodSoft**  
+🧪 **Certified Machine Learning Intern – CodSoft**  
 <sub>May 2025 – June 2025</sub>
 
-✔ Exposure to applied machine learning concepts  
-✔ Data preprocessing and handling  
-✔ Understanding ML workflows and practical use cases  
+✔ Data preprocessing & handling  
+✔ ML workflow exposure  
+✔ Practical understanding of applied ML systems  
 
 ---
 
-## 📜 CERTIFICATIONS
+## 🏆 CERTIFICATIONS
 
-- 🏅 Generative AI Mastermind – Outskill  
-- 🏅 Generative AI Fundamentals – Coursera  
-- 🏅 Linux Commands and Shell Scripting – Coursera  
-- 🏅 Introduction to Software Engineering – Coursera  
+🏅 Generative AI Mastermind – Outskill  
+🏅 Generative AI Fundamentals – Coursera  
+🏅 Linux Commands & Shell Scripting – Coursera  
+🏅 Introduction to Software Engineering – Coursera  
 
 ---
 
-## 🌍 LANGUAGES
+## 🌍 LANGUAGES KNOWN
 
 English • Hindi • Gujarati  
 
@@ -204,10 +213,15 @@ English • Hindi • Gujarati
 
 <div align="center">
 
-### 📫 OPEN TO OPPORTUNITIES
+## 📫 OPEN TO OPPORTUNITIES
 
-<b>Internships & Entry-Level Roles in Software / Web Development</b>
+<b>Internships & Entry-Level Roles in Software & Web Development</b>
 
-⭐ Explore my repositories to see practical implementations
+⭐ Explore my repositories for real implementations  
+💬 Always open to learning and collaboration  
 
 </div>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
