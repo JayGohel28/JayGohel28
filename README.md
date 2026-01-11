@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/new_photo.png"
+  <img src="https://raw.githubusercontent.com/JayGohel28/JayGohel28/main/JayGohel.png"
        alt="Jay Gohel"
        width="160"
        style="border-radius:50%;" />
