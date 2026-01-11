@@ -3,14 +3,12 @@
     <td>
       <img src="https://raw.githubusercontent.com/JayGohel28/JayGohel28/main/JayGohel.png"
            alt="Jay Gohel"
-           width="120"
-           height="160"
+           width="140"
+           height="180"
            style="border-radius:50%;" />
     </td>
   </tr>
 </table>
-
-<!-- subtle animated divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750324-7f2f6c1e-63c1-4a4d-9b4f-3d7d5f5d9a6b.gif" width="220" />
 </p>
