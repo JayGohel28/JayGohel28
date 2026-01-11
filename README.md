@@ -1,10 +1,15 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JayGohel28/JayGohel28/main/JayGohel.png"
-       alt="Jay Gohel"
-       width="160"
-       height="160"
-       style="border-radius: 9999px;" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/JayGohel28/JayGohel28/main/JayGohel.png"
+           alt="Jay Gohel"
+           width="160"
+           height="160"
+           style="border-radius:50%;" />
+    </td>
+  </tr>
+</table>
+
 <h1 align="center">Hi there! I'm Jay Gohel 👋</h1>
 
 <p align="center">
