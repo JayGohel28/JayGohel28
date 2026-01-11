@@ -1,14 +1,19 @@
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/JayGohel28/JayGohel28/main/JayGohel.png"
-           alt="Jay Gohel"
-           width="120"
-           height="170"
-           style="border-radius:50%;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <svg width="160" height="160" viewBox="0 0 160 160">
+    <defs>
+      <clipPath id="circleView">
+        <circle cx="80" cy="80" r="80" />
+      </clipPath>
+    </defs>
+    <image
+      href="https://raw.githubusercontent.com/JayGohel28/JayGohel28/main/JayGohel.png"
+      width="160"
+      height="160"
+      clip-path="url(#circleView)"
+    />
+  </svg>
+</p>
+
 
 <h1 align="center">Hi there! I'm Jay Gohel 👋</h1>
 
