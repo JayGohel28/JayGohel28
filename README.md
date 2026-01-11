@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="new_photo (2).png" alt="Jay Gohel" width="160" height="160" style="border-radius:50%;" />
+</p>
 <h1 align="center">Hi there! I'm Jay Gohel 👋</h1>
 
 <p align="center">
