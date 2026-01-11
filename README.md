@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JayGohel28/JayGohel28/JayGohel.png" alt="Jay Gohel" width="160" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/JayGohel28/JayGohel28/main/JayGohel.png" alt="Jay Gohel" width="160" style="border-radius:50%;" />
 </p>
 <h1 align="center">Hi there! I'm Jay Gohel 👋</h1>
 
