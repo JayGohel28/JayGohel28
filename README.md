@@ -3,8 +3,8 @@
     <td>
       <img src="https://raw.githubusercontent.com/JayGohel28/JayGohel28/main/JayGohel.png"
            alt="Jay Gohel"
-           width="160"
-           height="160"
+           width="120"
+           height="170"
            style="border-radius:50%;" />
     </td>
   </tr>
