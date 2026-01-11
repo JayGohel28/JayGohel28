@@ -9,7 +9,18 @@
     </td>
   </tr>
 </table>
+
+<!-- subtle animated divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750324-7f2f6c1e-63c1-4a4d-9b4f-3d7d5f5d9a6b.gif" width="220" />
+</p>
+
 <h1 align="center">Hi there! I'm Jay Gohel 👋</h1>
+
+<!-- typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+%26+Database+Focused;Building+Scalable+Applications;Always+Learning" />
+</p>
 
 <p align="center">
   <b>Software Developer</b> • Backend & Database Focused
