@@ -166,7 +166,8 @@ Bhakta Kavi Narsinh Mehta University, Porbandar
 - Generative AI Mastermind – Outskill  
 - Generative AI Fundamentals – Coursera  
 - Linux Commands & Shell Scripting – Coursera  
-- Introduction to Software Engineering – Coursera  
+- Introduction to Software Engineering – Coursera
+- Introduction to Prompt Engineering with GitHub Copilot - SkillUp 
 
 ---
 
